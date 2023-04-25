@@ -1,0 +1,12 @@
+[
+	{
+		"trigger": {
+            "url-filter": ".*",
+            "if-domain": [ "www.myf338m9ll1sk3qexp2ss0nrjw.xyz" ]
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#KuENN_0_0,#KuENN_0_1,#KuENN_0_2,#KuENN_0_3,#KuENN_1_0,#KuENN_1_1,#KuENN_1_2,#KuENN_1_3,#KuENN_2_0,#KuENN_2_1,#KuENN_2_2,#KuENN_2_3,#KuENN_3_0,#KuENN_3_1,#KuENN_3_2,#KuENN_3_3,#KuENN_4_0,#KuENN_4_1,#KuENN_4_2,#KuENN_4_3,#KuENN_5_0,#KuENN_5_1,#KuENN_5_2,#KuENN_5_3,#KuENN_6_0,#KuENN_6_1,#KuENN_6_2,#KuENN_6_3,#KuENN_1_0,#KuENN_7_1,#KuENN_7_2,#KuENN_7_3,#KuENN_8_0,#KuENN_8_1,#KuENN_8_2,#KuENN_8_3,#KuENN_9_0,#KuENN_9_1,#KuENN_9_2,#KuENN_9_3"
+		}
+	}
+]
